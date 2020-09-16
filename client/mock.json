@@ -1,0 +1,61 @@
+{
+    "status": "OK",
+    "compras": [
+        {
+            "producto": "Manzana",
+            "precio": "20"
+        },
+        {
+            "producto": "Naranja",
+            "precio": "50"
+        },
+        {
+            "producto": "Manzana",
+            "precio": "20"
+        },
+        {
+            "producto": "Naranja",
+            "precio": "50"
+        },
+        {
+            "producto": "Manzana",
+            "precio": "20"
+        },
+        {
+            "producto": "Naranja",
+            "precio": "50"
+        },
+        {
+            "producto": "Manzana",
+            "precio": "20"
+        },
+        {
+            "producto": "Naranja",
+            "precio": "50"
+        },
+        {
+            "producto": "Manzana",
+            "precio": "20"
+        },
+        {
+            "producto": "Naranja",
+            "precio": "50"
+        },
+        {
+            "producto": "Manzana",
+            "precio": "20"
+        },
+        {
+            "producto": "Naranja",
+            "precio": "50"
+        },
+        {
+            "producto": "Manzana",
+            "precio": "20"
+        },
+        {
+            "producto": "Naranja",
+            "precio": "50"
+        }
+    ]
+}
