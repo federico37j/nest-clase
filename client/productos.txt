@@ -1,0 +1,4 @@
+producto1,150,descripcion1
+producto2,200,descripcion2
+producto3,350,descripcion3
+producto4,450,descripcion4
